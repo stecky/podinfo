@@ -1,4 +1,4 @@
-module github.com/stefanprodan/podinfo
+module github.com/stecky/podinfo
 
 go 1.15
 
@@ -18,6 +18,7 @@ require (
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
+	github.com/stefanprodan/podinfo v1.8.0
 	github.com/swaggo/http-swagger v1.0.0
 	github.com/swaggo/swag v1.7.0
 	go.uber.org/zap v1.16.0
