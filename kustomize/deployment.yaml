@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: podinfod
-        image: ghcr.io/stecky/podinfo:5.3.1
+        image: ghcr.io/stecky/podinfo:5.3.2
         imagePullPolicy: IfNotPresent
         ports:
         - name: http
