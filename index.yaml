@@ -2,6 +2,21 @@ apiVersion: v1
 entries:
   podinfo:
   - apiVersion: v1
+    appVersion: 5.3.1
+    created: "2021-04-18T00:15:34.931326492Z"
+    description: Podinfo Helm chart for Kubernetes
+    digest: edb4bf265aa7da8975a1c8fe0b2c053c519b7bf0d965cd321e997c7a4f9f3784
+    home: https://github.com/stecky/podinfo
+    maintainers:
+    - email: stecky@users.noreply.github.com
+      name: stecky
+    name: podinfo
+    sources:
+    - https://github.com/stecky/podinfo
+    urls:
+    - https://stecky.github.io/podinfo/podinfo-5.3.1.tgz
+    version: 5.3.1
+  - apiVersion: v1
     appVersion: 5.2.0
     created: "2021-04-18T00:08:06.626734131Z"
     description: Podinfo Helm chart for Kubernetes
@@ -796,4 +811,4 @@ entries:
     urls:
     - https://stefanprodan.github.io/podinfo/podinfo-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-18T00:08:06.625172421Z"
+generated: "2021-04-18T00:15:34.929447691Z"
